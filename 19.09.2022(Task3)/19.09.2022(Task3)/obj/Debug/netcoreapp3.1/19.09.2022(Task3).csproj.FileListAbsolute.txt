@@ -1,0 +1,13 @@
+C:\Users\cavid\source\repos\19.09.2022(Task3)\19.09.2022(Task3)\bin\Debug\netcoreapp3.1\19.09.2022(Task3).exe
+C:\Users\cavid\source\repos\19.09.2022(Task3)\19.09.2022(Task3)\bin\Debug\netcoreapp3.1\19.09.2022(Task3).deps.json
+C:\Users\cavid\source\repos\19.09.2022(Task3)\19.09.2022(Task3)\bin\Debug\netcoreapp3.1\19.09.2022(Task3).runtimeconfig.json
+C:\Users\cavid\source\repos\19.09.2022(Task3)\19.09.2022(Task3)\bin\Debug\netcoreapp3.1\19.09.2022(Task3).runtimeconfig.dev.json
+C:\Users\cavid\source\repos\19.09.2022(Task3)\19.09.2022(Task3)\bin\Debug\netcoreapp3.1\19.09.2022(Task3).dll
+C:\Users\cavid\source\repos\19.09.2022(Task3)\19.09.2022(Task3)\bin\Debug\netcoreapp3.1\19.09.2022(Task3).pdb
+C:\Users\cavid\source\repos\19.09.2022(Task3)\19.09.2022(Task3)\obj\Debug\netcoreapp3.1\19.09.2022(Task3).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cavid\source\repos\19.09.2022(Task3)\19.09.2022(Task3)\obj\Debug\netcoreapp3.1\19.09.2022(Task3).AssemblyInfoInputs.cache
+C:\Users\cavid\source\repos\19.09.2022(Task3)\19.09.2022(Task3)\obj\Debug\netcoreapp3.1\19.09.2022(Task3).AssemblyInfo.cs
+C:\Users\cavid\source\repos\19.09.2022(Task3)\19.09.2022(Task3)\obj\Debug\netcoreapp3.1\19.09.2022(Task3).csproj.CoreCompileInputs.cache
+C:\Users\cavid\source\repos\19.09.2022(Task3)\19.09.2022(Task3)\obj\Debug\netcoreapp3.1\19.09.2022(Task3).dll
+C:\Users\cavid\source\repos\19.09.2022(Task3)\19.09.2022(Task3)\obj\Debug\netcoreapp3.1\19.09.2022(Task3).pdb
+C:\Users\cavid\source\repos\19.09.2022(Task3)\19.09.2022(Task3)\obj\Debug\netcoreapp3.1\19.09.2022(Task3).genruntimeconfig.cache
